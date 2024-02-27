@@ -1,7 +1,4 @@
-[[# challengeV4](http://localhost:8080/swagger-ui/index.html</br>
-http://localhost:8080/h2-console/</br>
-
-[{    
+{    
   "name": "Spike Spiegel",  
   "cpf": "111222333444",    
   "birthdate": "2041-05-27",  
